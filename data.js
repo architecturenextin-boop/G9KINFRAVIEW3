@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-view3",
-      "name": "VIEW3",
+      "id": "0-scene-4_1",
+      "name": "Scene 4_1",
       "levels": [
         {
           "tileSize": 256,
@@ -32,7 +32,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "G9KINFRAVIEW3",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
